@@ -1,0 +1,9 @@
+{
+	"name": "Renamer",
+	"version": "0.0.1",
+	"description": "Renames music files based on tags",
+	"dependencies": {
+		"lodash": "~1.1.1",
+		"id3": "~0.0.2"
+	}
+}
