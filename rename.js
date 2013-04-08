@@ -1,5 +1,4 @@
 var ID3File = require('id3');
-var ffmpeg = require('ffmpeg-node');
 var fs = require('fs');
 var _ = require('lodash');
 
